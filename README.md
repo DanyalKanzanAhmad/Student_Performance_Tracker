@@ -9,6 +9,7 @@ The program processes the data to calculate averages, class performance, and ind
 student_performance_tracker.ipynb: Jupyter/Colab notebook for running the project interactively.
 student_performance_tracker.py: Python script for executing the program on the command line.
 **Requirements:**
+
 Python 3.x
 Jupyter Notebook (optional for .ipynb files)
 Google Colab (optional for cloud-based execution)
@@ -28,6 +29,7 @@ bash
 Copy code
 python student_performance_tracker.py
 **Features:**
+
 Add Students: Record names and grades for multiple subjects.
 Performance Calculation: Compute individual averages and assess pass/fail status.
 Class Statistics: Calculate the overall class average.
