@@ -13,6 +13,7 @@ student_performance_tracker.py: Python script for executing the program on the c
 Python 3.x
 Jupyter Notebook (optional for .ipynb files)
 Google Colab (optional for cloud-based execution)
+
 **Installation:**
 Clone the repository using:
 bash
@@ -28,6 +29,7 @@ Execute the student_performance_tracker.py script directly using:
 bash
 Copy code
 python student_performance_tracker.py
+
 **Features:**
 
 Add Students: Record names and grades for multiple subjects.
